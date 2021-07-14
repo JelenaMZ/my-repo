@@ -1,3 +1,4 @@
 # my-repo
 
-Hello, this is a fun and useful workshop!
+Hello, this is a difficult workshop!
+
